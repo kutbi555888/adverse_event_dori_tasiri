@@ -1,0 +1,10 @@
+{
+  "model": "ovr_complementnb_a05",
+  "mode": "proba",
+  "micro_precision": 0.9135231987929083,
+  "micro_recall": 0.9131959501498897,
+  "micro_f1": 0.9133595451588268,
+  "macro_precision": 0.8906185473218603,
+  "macro_recall": 0.8777756389949332,
+  "macro_f1": 0.8821145921301132
+}

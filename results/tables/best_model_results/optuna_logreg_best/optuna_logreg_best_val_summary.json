@@ -1,0 +1,5 @@
+{
+  "model": "optuna_logreg_best",
+  "micro_f1": 0.9848308051341891,
+  "macro_f1": 0.9737848794746311
+}

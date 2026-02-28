@@ -1,0 +1,23 @@
+# venv
+env_folder/
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS/editor
+.vscode/
+.DS_Store
+
+# Models
+baseline_models/
+improvement_models/
+
+# Data
+Data/
+

@@ -1,0 +1,55 @@
+{
+  "TEXT_COL": "REAC_pt_symptom_v2",
+  "y_cols_count": 21,
+  "y_cols": [
+    "y_cardiovascular",
+    "y_dermatologic",
+    "y_edema_swelling",
+    "y_gastrointestinal",
+    "y_general_systemic",
+    "y_hematologic",
+    "y_hepatic",
+    "y_hypersensitivity_allergy",
+    "y_infections",
+    "y_injection_site",
+    "y_injury_accident",
+    "y_metabolic_endocrine",
+    "y_musculoskeletal",
+    "y_neurological",
+    "y_ocular_visual",
+    "y_pain_general",
+    "y_pregnancy_reproductive",
+    "y_psychiatric",
+    "y_renal",
+    "y_respiratory",
+    "y_urinary"
+  ],
+  "split_dir": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Data\\Processed\\splits_multilabel_noleakage",
+  "fe_version": "fe_v1",
+  "word_tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "norm": "l2"
+  },
+  "char_tfidf": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "min_df": 3,
+    "max_df": 0.98,
+    "sublinear_tf": true,
+    "norm": "l2"
+  },
+  "meta_features": [
+    "log1p_len",
+    "n_terms",
+    "n_uniq_terms"
+  ]
+}

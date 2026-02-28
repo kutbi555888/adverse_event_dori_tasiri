@@ -1,0 +1,38 @@
+{
+  "text_col": "REAC_pt_symptom_v2",
+  "num_labels": 21,
+  "labels": [
+    "cardiovascular",
+    "dermatologic",
+    "edema_swelling",
+    "gastrointestinal",
+    "general_systemic",
+    "hematologic",
+    "hepatic",
+    "hypersensitivity_allergy",
+    "infections",
+    "injection_site",
+    "injury_accident",
+    "metabolic_endocrine",
+    "musculoskeletal",
+    "neurological",
+    "ocular_visual",
+    "pain_general",
+    "pregnancy_reproductive",
+    "psychiatric",
+    "renal",
+    "respiratory",
+    "urinary"
+  ],
+  "metrics_test": {
+    "micro_f1": 0.9973343085080789,
+    "macro_f1": 0.9958330355582568,
+    "micro_precision": 0.9960402890973397,
+    "micro_recall": 0.9986316945788125
+  },
+  "artifacts": {
+    "model": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Models\\baseline_models\\baseline_ovr_logreg.joblib",
+    "thresholds": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Models\\baseline_models\\thresholds.npy",
+    "tfidf_bundle": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Data\\Preprocessed_data\\baseline\\tfidf_bundle.joblib"
+  }
+}

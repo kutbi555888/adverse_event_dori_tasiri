@@ -1,0 +1,10 @@
+{
+  "model": "ovr_linearsvc_C1",
+  "mode": "score",
+  "micro_precision": 0.9770334569705144,
+  "micro_recall": 0.9833518731499463,
+  "micro_f1": 0.9801824827806541,
+  "macro_precision": 0.9687737913759944,
+  "macro_recall": 0.9650965501225928,
+  "macro_f1": 0.9644168101133983
+}

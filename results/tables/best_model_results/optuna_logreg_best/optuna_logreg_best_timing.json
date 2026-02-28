@@ -1,0 +1,18 @@
+{
+  "model": "optuna_logreg_best",
+  "display": "LogisticRegression (solver=liblinear, C=2.98109399813007, class_weight=balanced, max_iter=6000)",
+  "train_fit_seconds": 341.53409719999763,
+  "threshold_calib_seconds": 0.5353590000013355,
+  "total_seconds": 342.06945619999897,
+  "train_fit_human": "5.69 min",
+  "threshold_calib_human": "0.5 sec",
+  "total_human": "5.70 min",
+  "X_fit_shape": [
+    203027,
+    33671
+  ],
+  "X_cal_shape": [
+    22559,
+    33671
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "test_metrics": {
+    "micro_f1": 0.9973343085080789,
+    "macro_f1": 0.9958330355582568,
+    "micro_precision": 0.9960402890973397,
+    "micro_recall": 0.9986316945788125
+  },
+  "num_rows_test": 24164,
+  "num_labels": 21,
+  "worst5_labels_by_f1": [
+    {
+      "label": "pregnancy_reproductive",
+      "support": 154,
+      "f1": 0.9838187702265372,
+      "precision": 0.9806451612903225,
+      "recall": 0.987012987012987
+    },
+    {
+      "label": "hepatic",
+      "support": 816,
+      "f1": 0.98661800486618,
+      "precision": 0.9794685990338164,
+      "recall": 0.9938725490196079
+    },
+    {
+      "label": "urinary",
+      "support": 698,
+      "f1": 0.9885550786838341,
+      "precision": 0.9871428571428571,
+      "recall": 0.9899713467048711
+    },
+    {
+      "label": "ocular_visual",
+      "support": 1660,
+      "f1": 0.993103448275862,
+      "precision": 0.9886567164179104,
+      "recall": 0.9975903614457832
+    },
+    {
+      "label": "renal",
+      "support": 982,
+      "f1": 0.9949341438703141,
+      "precision": 0.9899193548387096,
+      "recall": 1.0
+    }
+  ],
+  "best5_labels_by_f1": [
+    {
+      "label": "infections",
+      "support": 3204,
+      "f1": 0.9987519500780031,
+      "precision": 0.9984404242046163,
+      "recall": 0.9990636704119851
+    },
+    {
+      "label": "injury_accident",
+      "support": 1875,
+      "f1": 0.9989333333333333,
+      "precision": 0.9989333333333333,
+      "recall": 0.9989333333333333
+    },
+    {
+      "label": "general_systemic",
+      "support": 4077,
+      "f1": 0.9991418413632462,
+      "precision": 0.9987745098039216,
+      "recall": 0.9995094432180525
+    },
+    {
+      "label": "pain_general",
+      "support": 4196,
+      "f1": 0.9992853739876132,
+      "precision": 0.9988095238095238,
+      "recall": 0.9997616777883699
+    },
+    {
+      "label": "edema_swelling",
+      "support": 1790,
+      "f1": 0.9997207483943032,
+      "precision": 0.9994416527079844,
+      "recall": 1.0
+    }
+  ],
+  "outputs": {
+    "tables_out": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\results\\tables\\advanced_eda_outputs",
+    "visuals_out": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\visuals\\improvement_EDA"
+  }
+}

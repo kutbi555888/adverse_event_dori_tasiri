@@ -1,0 +1,10 @@
+{
+  "model": "ovr_sgd_logloss",
+  "mode": "proba",
+  "micro_precision": 0.9752759715711478,
+  "micro_recall": 0.9727936047059711,
+  "micro_f1": 0.97403320653559,
+  "macro_precision": 0.9679764318003709,
+  "macro_recall": 0.9430974379927077,
+  "macro_f1": 0.9529507712434356
+}

@@ -1,0 +1,10 @@
+{
+  "model": "ovr_sgd_hinge",
+  "mode": "score",
+  "micro_precision": 0.9728015564202335,
+  "micro_recall": 0.9427402477422274,
+  "micro_f1": 0.9575350204425551,
+  "macro_precision": 0.9651957922984813,
+  "macro_recall": 0.9143846974182757,
+  "macro_f1": 0.9369053317968185
+}

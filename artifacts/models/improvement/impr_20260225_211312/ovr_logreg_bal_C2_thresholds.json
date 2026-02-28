@@ -1,0 +1,23 @@
+{
+  "cardiovascular": 0.28399112820625305,
+  "dermatologic": 0.1309691220521927,
+  "edema_swelling": 0.9869498610496521,
+  "gastrointestinal": 0.19238486886024475,
+  "general_systemic": 0.197341188788414,
+  "hematologic": 0.9397239089012146,
+  "hepatic": 0.11355698108673096,
+  "hypersensitivity_allergy": 0.9926464557647705,
+  "infections": 0.14747004210948944,
+  "injection_site": 0.980846643447876,
+  "injury_accident": 0.1313191056251526,
+  "metabolic_endocrine": 0.1269190013408661,
+  "musculoskeletal": 0.9352739453315735,
+  "neurological": 0.9075010418891907,
+  "ocular_visual": 0.9343611598014832,
+  "pain_general": 0.9671952128410339,
+  "pregnancy_reproductive": 0.9999364018440247,
+  "psychiatric": 0.9549760222434998,
+  "renal": 0.8985018730163574,
+  "respiratory": 0.24283359944820404,
+  "urinary": 0.363738089799881
+}

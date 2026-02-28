@@ -1,0 +1,43 @@
+{
+  "run": "baseline_ovr_linearsvc",
+  "model_type": "OneVsRest(LinearSVC)",
+  "note": "Pseudo-probabilities used: sigmoid(decision_function).",
+  "text_col": "REAC_pt_symptom_v2",
+  "num_labels": 21,
+  "labels": [
+    "cardiovascular",
+    "dermatologic",
+    "edema_swelling",
+    "gastrointestinal",
+    "general_systemic",
+    "hematologic",
+    "hepatic",
+    "hypersensitivity_allergy",
+    "infections",
+    "injection_site",
+    "injury_accident",
+    "metabolic_endocrine",
+    "musculoskeletal",
+    "neurological",
+    "ocular_visual",
+    "pain_general",
+    "pregnancy_reproductive",
+    "psychiatric",
+    "renal",
+    "respiratory",
+    "urinary"
+  ],
+  "metrics_test": {
+    "micro_f1": 0.9994894371285173,
+    "macro_f1": 0.9988471713051645,
+    "micro_precision": 0.99921029315459,
+    "micro_recall": 0.9997687371119119
+  },
+  "artifacts": {
+    "model": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Models\\baseline_models\\baseline_ovr_linearsvc.joblib",
+    "thresholds": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Models\\baseline_models\\baseline_ovr_linearsvc_thresholds.npy",
+    "tfidf_bundle": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\Data\\Preprocessed_data\\baseline\\tfidf_bundle.joblib",
+    "thresholds_table": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\results\\tables\\baseline_train\\baseline_ovr_linearsvc_thresholds_val.csv",
+    "per_label_table": "c:\\Users\\xolmu\\OneDrive\\Desktop\\Modul Program oyi\\Modul_Program3\\6_project_dori_tasiri_extract\\results\\tables\\baseline_train\\baseline_ovr_linearsvc_per_label_test.csv"
+  }
+}

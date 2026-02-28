@@ -1,0 +1,10 @@
+{
+  "model": "ovr_logreg_smote_C1",
+  "mode": "proba",
+  "micro_precision": 0.9767590418036637,
+  "micro_recall": 0.9801843926167537,
+  "micro_f1": 0.9784687194157947,
+  "macro_precision": 0.9682154871297675,
+  "macro_recall": 0.9429778382774191,
+  "macro_f1": 0.9440208168219181
+}

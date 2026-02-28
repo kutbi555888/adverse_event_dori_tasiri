@@ -1,0 +1,10 @@
+{
+  "model": "ovr_logreg_bal_C2",
+  "mode": "proba",
+  "micro_precision": 0.9774000712103892,
+  "micro_recall": 0.983370727200739,
+  "micro_f1": 0.9803763087160016,
+  "macro_precision": 0.9703901155016439,
+  "macro_recall": 0.9658681226026214,
+  "macro_f1": 0.9658361670431072
+}

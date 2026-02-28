@@ -1,0 +1,13 @@
+2026-02-28 12:09:34 | INFO | [RUN aef044b0] ✅ BOSHLANDI: 01_extract_data
+2026-02-28 12:10:55 | INFO | [RUN 8e68a66d] ✅ BOSHLANDI: 02_data_merge
+2026-02-28 12:12:00 | INFO | [RUN 8e68a66d] ✅ TUGADI: 02_data_merge | davomiyligi: 00:01:05
+2026-02-28 12:13:54 | INFO | [RUN abd8c08c] ✅ BOSHLANDI: 01_extract_data
+2026-02-28 12:15:00 | INFO | [RUN abd8c08c] ✅ TUGADI: 01_extract_data | davomiyligi: 00:01:06
+2026-02-28 12:15:57 | INFO | [RUN 48d6423c] ✅ BOSHLANDI: 03_load_data
+2026-02-28 12:16:27 | INFO | [RUN 48d6423c] ✅ TUGADI: 03_load_data | davomiyligi: 00:00:29
+2026-02-28 12:19:46 | INFO | [RUN 7e212211] ✅ BOSHLANDI: 01_extract_data
+2026-02-28 12:28:47 | INFO | [RUN 9ee2b337] ✅ BOSHLANDI: 04_baseline_eda
+2026-02-28 12:31:51 | INFO | [RUN 162cce4f] ✅ BOSHLANDI: 04_baseline_eda
+2026-02-28 12:32:27 | INFO | [RUN 162cce4f] ✅ TUGADI: 04_baseline_eda | davomiyligi: 00:00:35
+2026-02-28 12:34:42 | INFO | [RUN 69bd6f45] ✅ BOSHLANDI: 05_baseline_preprocess
+2026-02-28 12:35:20 | INFO | [RUN 69bd6f45] ✅ TUGADI: 05_baseline_preprocess | davomiyligi: 00:00:38
